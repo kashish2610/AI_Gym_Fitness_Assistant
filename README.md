@@ -1,10 +1,10 @@
-# 🏋️ AI Gym & Fitness Assistant
+# AI Gym & Fitness Assistant
 
 An all-in-one AI-powered fitness platform built as a Google Colab notebook, featuring **7 intelligent modules** that cover workout tracking, nutrition planning, habit analysis, and gym recommendations — all powered by modern machine learning and computer vision.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Modules](#modules)
